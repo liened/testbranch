@@ -11,6 +11,7 @@ public class App {
     }
 
     public void testMethod(){
+        System.out.println("this is master");
         System.out.println("This is testMethod !");
     }
 }
